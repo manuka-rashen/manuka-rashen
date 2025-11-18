@@ -26,14 +26,14 @@
 
 ## 👨‍💻 **About Me**
 
-I am an **Academic Instructor at the Sri Lanka Institute of Information Technology (SLIIT)** with a strong focus on **AI-driven systems, scalable full-stack engineering, and applied machine learning research**.
+I am an **Academic Instructor at the Sri Lanka Institute of Information Technology (SLIIT)** focused on **AI-driven systems, scalable full-stack engineering, and applied machine learning research**.
 
-I enjoy blending **teaching, research, and real-world engineering** to build impactful solutions and guide the next generation of developers.
+I blend **teaching, research, and real-world engineering** to create impactful solutions and help shape the next generation of software engineers.
 
-- 🔭 **Current Role:** Academic Instructor, Dept. of Software Engineering — SLIIT  
+- 🔭 **Current Role:** Academic Instructor — Dept. of Software Engineering, SLIIT  
 - 🎓 **Education:** BSc (Hons) in IT (Software Engineering) — *Second Class Upper Division*  
 - 🧠 **Expertise:** Generative AI, Cloud Computing, MLOps, MERN Stack  
-- 🎯 **Goals:** Build advanced AI-powered developer tools & publish impactful research  
+- 🎯 **Goals:** Build AI-powered developer tools & publish impactful research  
 - 📄 **Resume:** [Download My CV](https://drive.google.com/file/d/1cKNpByxyPH2oa1Q1SaW3ceL-BAXJQHta/view?usp=sharing)
 
 ---
@@ -42,8 +42,8 @@ I enjoy blending **teaching, research, and real-world engineering** to build imp
 
 ### **GEN: AI Autograding for Academic Evaluation (2025)**  
 *Journal of Propulsion Technology*  
-- Developed a **microservice-based GenAI system** (MERN + GPT-3.5 + DeBERTa) for automated grading.  
-- Evaluates **code, essays, diagrams** with improved accuracy and consistency.  
+- Built a **microservice-based GenAI autograder** (MERN + GPT-3.5 + DeBERTa).  
+- Automates evaluation for **code, essays, and diagram-based answers**.  
 🔗 Publication:  
 https://www.propulsiontechjournal.com/index.php/journal/article/view/9185
 
@@ -51,8 +51,8 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/9185
 
 ### **SalesEye: Fashion Retail Management System (2023)**  
 *Journal of Propulsion Technology*  
-- Built a modern **retail analytics & forecasting** platform.  
-- Integrated **Power BI dashboards** for demand prediction & inventory insights.  
+- Developed an advanced **retail analytics & forecasting platform**.  
+- Integrated **Power BI** for demand prediction and sales insights.  
 🔗 Publication:  
 https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
 
@@ -62,68 +62,80 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
 
 ### **Academic Instructor — SLIIT**  
 📅 *Oct 2025 – Present*  
-- Conducts labs, tutorials & evaluations for core software engineering modules.  
-- Mentors undergraduate research & practical software projects.  
-- Supports curriculum enhancement using AI & cloud-native tools.
+- Conducts labs, tutorials & evaluations for SE modules.  
+- Supervises undergraduate research & real-world software projects.  
+- Enhances curriculum using modern AI and cloud-native tools.
 
 ### **Software Engineer (Intern) — Sri Lanka Telecom**  
 📅 *Dec 2023 – Jun 2024*  
 - Designed **interactive dashboards** using Laravel, MySQL & Figma.  
-- Improved internal analytics and customer usage visibility.  
+- Improved internal analytics and customer usage visibility.
 
 ---
 
 ## 🏆 **Achievements**
 
-- 🥇 **Dean’s List Award** — Academic Excellence  
-- 🥈 **DevQuest 2024 - Finalist (Top 10)**  
-- 🧠 Published *multiple peer-reviewed research papers* in AI & retail systems  
+- 🥇 **Dean’s List Award** — for academic excellence  
+- 🥈 **DevQuest 2024 Finalist (Top 10)** — CodeFest  
+- 🧠 **Published multiple peer-reviewed papers** in AI & analytics  
 
 ---
 
 ## 🛠 **Tech Stack**
 
-### **Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-</p>
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend & Databases</th>
+    <th>AI & Data</th>
+    <th>Cloud & Tools</th>
+  </tr>
+  
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br>C#
+    </td>
 
-### **Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular<br><br>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br>Next.js<br><br>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>TailwindCSS
+    </td>
 
-### **Backend & Databases**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-</p>
+    <!-- Backend & DB -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/><br>Laravel<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB<br><br>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/><br>SQL Server
+    </td>
 
-### **AI & Data Science**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
+    <!-- AI & Data -->
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow<br><br>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br>PyTorch<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
+    </td>
 
-### **Cloud & Dev Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+    <!-- Cloud & Tools -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br>AWS<br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker<br><br>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git<br><br>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -143,4 +155,4 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
 
 ## 🚀 **Thanks for Visiting!**
 
-⭐ *Feel free to explore my projects or connect with me on LinkedIn.*  
+⭐ *Feel free to explore my projects or reach out on LinkedIn!*
