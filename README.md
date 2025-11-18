@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manuka-rashen&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-trophy.vercel.app/?username=manuka-rashen&margin-w=15&column=4&theme=flat" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=manuka-rashen&margin-w=15&column=4&theme=flat" /> -->
 </p>
 
 <p align="center">
