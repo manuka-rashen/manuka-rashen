@@ -116,7 +116,7 @@ I strive to combine **teaching, research, and industrial engineering practices**
 
   <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/><br>Laravel<br><br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfitrjP8RaSyij0rDzOFvzl92--bwK-uGsw&s" width="40"/><br>Laravel<br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL<br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB<br><br>
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/><br>SQL Server
