@@ -102,7 +102,6 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript<br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br>C#
     </td>
-
     <!-- Frontend -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React<br><br>
@@ -110,7 +109,6 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br>Next.js<br><br>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>TailwindCSS
     </td>
-
     <!-- Backend & DB -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js<br><br>
@@ -119,14 +117,12 @@ https://www.propulsiontechjournal.com/index.php/journal/article/view/3051
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB<br><br>
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/><br>SQL Server
     </td>
-
     <!-- AI & Data -->
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow<br><br>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br>PyTorch<br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
     </td>
-
     <!-- Cloud & Tools -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br>AWS<br><br>
