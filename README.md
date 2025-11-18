@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <strong>Manuka Rashen</strong></h1>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c4a26023-dc1f-4aa6-ad2b-eefabcd8c585" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/90bfc1f6-5913-48e6-87bc-7fc3275b1dd1" />
 
 <h3 align="center">Academic Instructor | Full-Stack Developer | AI/ML Researcher</h3>
 
