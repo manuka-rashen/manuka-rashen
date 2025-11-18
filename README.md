@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hey, I'm <strong>Manuka Rashen</strong></h1>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c4a26023-dc1f-4aa6-ad2b-eefabcd8c585" />
+
 <h3 align="center">Academic Instructor | Full-Stack Developer | AI/ML Researcher</h3>
 
 <p align="center">
