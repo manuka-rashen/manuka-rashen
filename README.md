@@ -1,160 +1,255 @@
-<h1 align="center">👋 Hello, I'm <strong>Manuka Rashen</strong></h1>
-
-<p align="center">
-  <img width="1802" height="479" alt="github pic" src="https://github.com/user-attachments/assets/d8a9aa82-f91d-4116-9707-c9abc64c1681" />
-
-
-</p>
-
-<h3 align="center">Academic Instructor | Full-Stack Developer | AI/ML Researcher</h3>
-
-<p align="center">
-  <em>Academic Instructor at SLIIT | Passionate about AI-driven systems, Cloud-Native Engineering & Modern Software Ecosystems</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuka-rashen&label=Profile%20Views&color=0e75b6&style=flat" />
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=manuka-rashen&margin-w=15&column=4&theme=flat" /> -->
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/manuka-rashen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/manuka rashen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:manukarashen1019@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am an **Academic Instructor at SLIIT** specializing in **AI-driven applications, full-stack engineering, and applied machine learning research**.
-
-I strive to combine **teaching, research, and industrial engineering practices** to inspire the next generation of software engineers.
-
-- 🔭 **Current Role:** Academic Instructor — Dept. of Software Engineering, SLIIT  
-- 🎓 **Education:** BSc (Hons) in Information Technology (Software Engineering) — *Second Class Upper Division*  
-- 🧠 **Domains:** Generative AI, Cloud Computing, MLOps, MERN Stack  
-- 🚀 **Goals:** Build AI-powered developer tools & publish impactful research  
-- 📄 **Resume:** [Download My CV](https://drive.google.com/file/d/1cKNpByxyPH2oa1Q1SaW3ceL-BAXJQHta/view?usp=sharing)
-
----
-
-## 🔬 Research & Publications
-
-### **GEN: AI Autograding for Academic Evaluation (2025)**  
-*Journal of Propulsion Technology*  
-- Developed a **microservice-based GenAI autograder** using MERN, GPT-3.5 & DeBERTa  
-- Automates evaluation for code, essays, and diagram-based questions  
-🔗 https://www.propulsiontechjournal.com/index.php/journal/article/view/9185  
-
----
-
-### **SalesEye: Fashion Retail Management System (2023)**  
-*Journal of Propulsion Technology*  
-- Built a **retail analytics & forecasting system**  
-- Integrated **Power BI** dashboards for sales insights  
-🔗 https://www.propulsiontechjournal.com/index.php/journal/article/view/3051  
-
----
-
-## 💼 Experience
-
-### **Academic Instructor — SLIIT**  
-📅 Oct 2025 – Present  
-- Conducts labs, tutorials & assessments for SE modules  
-- Supervises research and real-world software engineering projects  
-- Promotes modern AI & cloud-native practices in teaching
-
----
-
-### **Software Engineer (Intern) — Sri Lanka Telecom**  
-📅 Dec 2023 – Jun 2024  
-- Built interactive dashboards using **Laravel, MySQL & Figma**  
-- Enhanced data visibility and analytics for internal operations  
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Dean’s List Award**  
-- 🥈 **Top 10 Finalist — DevQuest 2024 (CodeFest)**  
-- 🧠 **Multiple peer-reviewed publications in AI & analytics**  
-
----
-
-## 🛠 Tech Stack
-
-<table align="center">
-  <tr>
-    <th>Languages</th>
-    <th>Frontend</th>
-    <th>Backend & Databases</th>
-    <th>AI & Data</th>
-    <th>Cloud & Tools</th>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br>C#
-    </td>
-
-<td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular<br><br>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br>Next.js<br><br>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>TailwindCSS
-    </td>
-
-  <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js<br><br>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfitrjP8RaSyij0rDzOFvzl92--bwK-uGsw&s" width="40"/><br>Laravel<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB<br><br>
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/><br>SQL Server
-    </td>
-
-  <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow<br><br>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br>PyTorch<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
-    </td>
-
-  <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br>AWS<br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker<br><br>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git<br><br>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Insights
+<!-- GitHub Profile README | Manuka Rashen -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuka-rashen&show_icons=true&layout=compact" height="170" />
+# Hi, I'm Manuka Rashen 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=manuka-rashen&show_icons=true" height="170" />
+<img
+  src="https://github.com/user-attachments/assets/d8a9aa82-f91d-4116-9707-c9abc64c1681"
+  alt="Manuka Rashen GitHub Banner"
+  width="100%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuka-rashen" height="170" />
+### Academic Instructor • MSc in Artificial Intelligence • Software Engineer • AI/ML Researcher
+
+**Bridging academia and engineering through AI, software development, cloud-native systems, and hands-on technical education.**
+
+<br/>
+
+<a href="https://linkedin.com/in/manuka-rashen">
+  <img src="https://img.shields.io/badge/LinkedIn-Manuka%20Rashen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:manukarashen1019@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/manuka-rashen">
+  <img src="https://img.shields.io/badge/GitHub-manuka--rashen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manuka-rashen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 Thanks for Visiting!
+## 👨‍💻 About Me
 
-⭐ *Feel free to explore my projects or reach out on LinkedIn!*
+I'm an **Academic Instructor at SLIIT** and an **MSc in Artificial Intelligence student at the University of Moratuwa**, with a background in software engineering, applied AI/ML, full-stack development, and cloud technologies.
+
+My work sits at the intersection of **academia, research, and software engineering**. I enjoy transforming complex technical concepts into practical learning experiences while exploring how technologies such as **Generative AI, machine learning, intelligent systems, and cloud-native architectures** can solve real-world problems.
+
+I have contributed to peer-reviewed research in **AI-driven academic evaluation and retail demand prediction**, while also gaining industry experience developing software solutions.
+
+- 🎓 **MSc in Artificial Intelligence** — University of Moratuwa
+- 👨‍🏫 **Academic Instructor** — SLIIT, Department of Software Engineering
+- 🎓 **BSc in Information Technology (Software Engineering)** — Second Class Upper Division
+- 🔬 Research interests in **Generative AI, Applied AI/ML & Intelligent Software Systems**
+- ☁️ Interested in **Cloud-Native Engineering & Scalable Software Architectures**
+- 💡 Passionate about **technical education, research & developer innovation**
+- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1cKNpByxyPH2oa1Q1SaW3ceL-BAXJQHta/view?usp=sharing)
+
+---
+
+## 🎯 Current Focus
+
+```text
+🤖 Generative AI           → Intelligent and AI-assisted software systems
+🧠 Artificial Intelligence → Applied AI/ML research and experimentation
+🎓 AI in Education         → Intelligent assessment and learning technologies
+☁️ Cloud Engineering       → Scalable and cloud-native application architectures
+💻 Software Engineering    → Modern full-stack and enterprise development
+👨‍🏫 Technical Education   → Practical, industry-aligned software engineering education
+```
+
+---
+
+## 🎓 Education
+
+### 🧠 Master of Science in Artificial Intelligence
+**University of Moratuwa**  
+`2026 — Present`
+
+Advancing my knowledge in artificial intelligence, machine learning, intelligent systems, and AI-driven research.
+
+### 💻 Bachelor of Science in Information Technology
+**Software Engineering — SLIIT**  
+`2021 — 2025`
+
+**Second Class Upper Division** • WGPA: **3.37 / 4.00**
+
+**Thesis:** *GEN-AI Based Autograding System for Academic Evaluation*
+
+---
+
+## 🔬 Research & Publications
+
+### 🤖 GEN — AI Autograding for Academic Evaluation
+
+**Tujin Jishu / Journal of Propulsion Technology • 2025**
+
+Developed a **Generative AI-powered academic evaluation system** using a microservices architecture and MERN stack. The system integrates models including **GPT-3.5 and DeBERTa** to support automated evaluation of:
+
+- 💻 Programming/code-based answers
+- 📝 Essay-based responses
+- 📊 Diagram-based answers
+
+The research explores how AI can improve the **speed and consistency of academic assessment**.
+
+🔗 [View Publication](https://www.propulsiontechjournal.com/index.php/journal/article/view/9185)
+
+---
+
+### 📈 SalesEye — Fashion Retail Management System with Demand Prediction
+
+**Tujin Jishu / Journal of Propulsion Technology • 2023**
+
+Developed a fashion retail web application that uses **Power BI** to analyze sales data, forecast customer demand, and support data-driven retail decision-making.
+
+🔗 [View Publication](https://www.propulsiontechjournal.com/index.php/journal/article/view/3051)
+
+---
+
+## 💼 Professional Experience
+
+### 👨‍🏫 Academic Instructor
+**Sri Lanka Institute of Information Technology (SLIIT)**  
+`Oct 2025 — Present`
+
+- Deliver practical, hands-on software engineering laboratory sessions
+- Evaluate students through practical examinations and project-based assessments
+- Conduct code reviews and provide detailed technical feedback
+- Develop technical and knowledge-sharing materials
+- Support students in applying software engineering concepts to practical problems
+
+### 💻 Software Developer Intern
+**Sri Lanka Telecom (SLT)**  
+`Dec 2023 — Jun 2024`
+
+- Developed a **customer usage monitoring dashboard** using Laravel and MySQL
+- Designed application interfaces using **Figma**
+- Implemented interactive functionality using JavaScript
+- Participated in the full **Software Development Life Cycle (SDLC)** within an Agile environment
+- Contributed to technical documentation and internal knowledge-sharing materials
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Achievement | Recognition |
+|---|---|
+| 🥇 **Dean's List Award** | Outstanding academic performance — Year 4, Semester 2 |
+| 🎓 **Semester GPA: 3.70** | Software Engineering specialization |
+| 🏆 **DevQuest — CODEFEST 2024** | Top 10 Finalist as Team CodeX |
+| 🔬 **Peer-Reviewed Research** | Publications in AI-driven education and retail analytics |
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs&perline=6" alt="Programming Languages" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind&perline=6" alt="Frontend Technologies" />
+
+### Backend & Enterprise Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,dotnet&perline=6" alt="Backend Technologies" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=6" alt="Databases" />
+
+### AI / Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" alt="AI and ML Technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+
+### Cloud, DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma&perline=5" alt="Cloud and Development Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🤖 **Generative AI: Prompt Engineering Basics** — IBM
+- 🧠 **AI/ML Engineer — Stage 1** — SLIIT
+- ☕ **Java Application Development using Java SE** — University of Colombo School of Computing
+- 📊 **Data Science & Analytics** — HP
+- 🔄 **Agile Project Management** — HP
+- 🎨 **Foundations of User Experience (UX) Design** — Google
+- 🏢 **A Beginner's Guide to Enterprise Resource Planning (ERP) Systems** — Alison
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=manuka-rashen&show_icons=true&hide_border=true&rank_icon=github"
+  height="165"
+  alt="Manuka Rashen GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuka-rashen&layout=compact&hide_border=true"
+  height="165"
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=manuka-rashen&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working in **Artificial Intelligence, Software Engineering, research, education, and emerging technologies**.
+
+Whether you're interested in discussing a research idea, collaborating on a software project, or exchanging knowledge about AI and modern software engineering, feel free to reach out.
+
+<div align="center">
+
+### 💡 Research • Build • Teach • Innovate
+
+<a href="https://linkedin.com/in/manuka-rashen">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="mailto:manukarashen1019@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+</a>
+
+<br/><br/>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+</div>
