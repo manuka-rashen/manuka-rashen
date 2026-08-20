@@ -148,46 +148,41 @@ Developed a fashion retail web application that uses **Power BI** to analyze sal
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs&perline=6" alt="Programming Languages" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind&perline=6" alt="Frontend Technologies" />
-
-### Backend & Enterprise Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,dotnet&perline=6" alt="Backend Technologies" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=6" alt="Databases" />
-
-### AI / Machine Learning & Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" alt="AI and ML Technologies" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-
-### Cloud, DevOps & Development Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma&perline=5" alt="Cloud and Development Tools" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs&perline=6" alt="Java, Python, JavaScript, TypeScript, PHP and C#" />
+      <br/><br/>
+      <sub>Java • Python • JavaScript • TypeScript • PHP • C#</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind&perline=6" alt="React, Angular, Next.js, HTML, CSS and Tailwind CSS" />
+      <br/><br/>
+      <sub>React • Angular • Next.js • HTML • CSS • Tailwind CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Backend & Databases</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,dotnet,mysql,mongodb,postgres&perline=7" alt="Backend and Database Technologies" />
+      <br/><br/>
+      <sub>Node.js • Spring • Laravel • .NET • MySQL • MongoDB • PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 AI, Cloud & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker,git,github,figma&perline=7" alt="AI, Cloud and Development Tools" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+      <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+      <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+      <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
+      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+    </td>
+  </tr>
+</table>
 
 ---
 
