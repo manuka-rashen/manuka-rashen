@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello, I'm <strong>Manuka Rashen</strong></h1>
 
 <p align="center">
-  <img width="2098" height="749" alt="ChatGPT Image Aug 20, 2026, 12_35_59 PM" src="https://github.com/user-attachments/assets/f7a90380-a60b-4fb5-946e-88deb6189396" />
+  <img width="1802" height="479" alt="github pic" src="https://github.com/user-attachments/assets/d8a9aa82-f91d-4116-9707-c9abc64c1681" />
+
 
 </p>
 
