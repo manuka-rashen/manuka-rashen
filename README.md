@@ -205,28 +205,11 @@ Developed a fashion retail web application that uses **Power BI** to analyze sal
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuka-rashen&theme=github_dark"
-  height="170"
-  alt="Manuka Rashen GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuka-rashen&theme=github_dark"
-  height="170"
-  alt="Top Languages by Repository"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=manuka-rashen&theme=github-dark-blue&hide_border=true"
-  alt="Manuka Rashen GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuka-rashen&theme=github_dark" alt="Manuka Rashen GitHub Stats" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuka-rashen&theme=github_dark" alt="Top Languages by Repository" />
+  <img width="36%" src="https://streak-stats.demolab.com/?user=manuka-rashen&theme=github-dark-blue&hide_border=true" alt="Manuka Rashen GitHub Streak" />
+</p>
 
 ---
 
