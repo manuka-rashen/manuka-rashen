@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello, I'm <strong>Manuka Rashen</strong></h1>
 
 <p align="center">
-  <img width="800" height="500" src="https://camo.githubusercontent.com/ccdf32473b54cfa60c217f1de2150c62df0dc3b36494b3aef76ddc73d054d4d5/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
+  <img width="2098" height="749" alt="ChatGPT Image Aug 20, 2026, 12_35_59 PM" src="https://github.com/user-attachments/assets/f7a90380-a60b-4fb5-946e-88deb6189396" />
+
 </p>
 
 <h3 align="center">Academic Instructor | Full-Stack Developer | AI/ML Researcher</h3>
